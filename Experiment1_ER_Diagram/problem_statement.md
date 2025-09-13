@@ -23,7 +23,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### ER Diagram:
 *Paste or attach your diagram here*  
-<img width="768" height="144" alt="fitness_er" src="https://github.com/user-attachments/assets/adef5847-be41-4ef6-adc5-ab73abc86f9e" />
+<img width="4671" height="333" alt="fitness drawio" src="https://github.com/user-attachments/assets/c6057fff-0588-402a-8cbf-aa64c1778dce" />
 
 
 ### Entities and Attributes
@@ -76,7 +76,7 @@ The Central Library wants to manage book lending and cultural events.
 
 ### ER Diagram:
 *Paste or attach your diagram here*  
-<img width="768" height="160" alt="library_er" src="https://github.com/user-attachments/assets/5f2367b0-acf3-4064-a6c3-d086a12a272c" />
+<img width="3048" height="878" alt="library drawio" src="https://github.com/user-attachments/assets/ce619038-2367-4741-b561-49b8d000eb87" />
 
 
 ### Entities and Attributes
@@ -132,7 +132,8 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### ER Diagram:
 *Paste or attach your diagram here*  
-<img width="768" height="146" alt="restaurant_er" src="https://github.com/user-attachments/assets/a0de15ec-e56e-4f14-b013-4408866469ca" />
+<img width="795" height="1268" alt="restaurant drawio" src="https://github.com/user-attachments/assets/89082457-71b5-424b-9199-72b006364115" />
+
 
 
 
@@ -176,11 +177,3 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Service charges are fixed % of food total.
 
 ---
-
-## Instructions for Students
-
-1. Complete **all three scenarios** (A, B, C).  
-2. Identify entities, relationships, and attributes for each.  
-3. Draw ER diagrams using **draw.io / diagrams.net** or hand-drawn & scanned.  
-4. Fill in all tables and assumptions for each scenario.  
-5. Export the completed Markdown (with diagrams) as **a single PDF**
