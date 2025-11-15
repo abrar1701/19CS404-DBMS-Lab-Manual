@@ -73,7 +73,7 @@ END;
 2. **OTHERS**: Any other unexpected errors during execution.
 
 ## PROGRAM
-```
+```sql
 DECLARE
    -- Simple cursor declaration
    CURSOR emp_cursor IS
@@ -126,7 +126,7 @@ END;
 2. **OTHERS**: For any unexpected errors during the execution.
 
 ## PROGRAM
-```
+```sql
 DECLARE
    -- Input salary range
    v_min_salary NUMBER := 55000;
@@ -186,7 +186,7 @@ END;
 2. **OTHERS**: For any other unexpected errors.
 
 ## PROGRAM
-```
+```sql
 DECLARE
    -- Flag to check if any row is found
    v_found BOOLEAN := FALSE;
@@ -227,7 +227,7 @@ END;
 2. **OTHERS**: For any other errors that occur.
 
 ## PROGRAM
-```
+```sql
 DECLARE
    -- Cursor to fetch all records
    CURSOR emp_cursor IS
@@ -284,7 +284,7 @@ END;
 2. **OTHERS**: For any unexpected errors during execution.
 
 ## PROGRAM
-```
+```sql
 
 DECLARE
    -- Target department and increment
